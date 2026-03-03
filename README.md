@@ -1,6 +1,6 @@
 # 🤖 Artificial Intelligence Lab Practicals  
 ### Course Code: N-PCCCS601P  
-Department of Computer Science & Engineering  
+**Department of Computer Science & Engineering**  
 S.B. Jain Institute of Technology, Management & Research, Nagpur  
 Academic Session: 2025-2026  
 
@@ -8,89 +8,77 @@ Academic Session: 2025-2026
 
 ## 📘 About This Repository
 
-This repository contains all Artificial Intelligence Lab practicals implemented as part of the Semester VI curriculum.  
+This repository contains the complete set of Artificial Intelligence Lab Practicals performed during Semester VI.  
 
 Each practical includes:
-- 📄 Complete PDF documentation
-- 🧠 Theory & Concept explanation
-- 💻 Python implementation
-- 🧾 Algorithm & Pseudocode
-- 📊 Input & Output screenshots
-- ✅ Conclusion & Discussion Questions
+- 📄 Detailed PDF documentation  
+- 🧠 Theory and Concept explanation  
+- 💻 Python implementation  
+- 📊 Algorithms and Pseudocode  
+- ✅ Conclusion and discussion questions  
 
-The repository demonstrates practical understanding of core AI concepts such as search algorithms, constraint satisfaction, production systems, and game intelligence.
+This repository demonstrates practical implementation of core AI concepts including search algorithms, constraint satisfaction, production systems, heuristic techniques, and basic game intelligence.
 
 ---
 
-## 📂 List of Practicals
+## 📂 AI Lab Practicals
 
-### 🔹 Practical 01 – Magic Square Generation
-- Implementation of Magic Square using Python
-- Concept of Magic Constant
-- Works for odd dimensions
+- 🔹 [Practical 01 – Magic Square](./Practical-01-Magic-Square)
+- 🔹 [Practical 02 – Water Jug Problem](./Practical-02-Water-Jug-Problem)
+- 🔹 [Practical 03 – Tic Tac Toe with AI](./Practical-03-Tic-Tac-Toe-AI)
+- 🔹 [Practical 04 – A* Algorithm vs BFS](./Practical-04-AStar-vs-BFS)
+- 🔹 [Practical 05 – Cryptarithmetic Puzzle (CSP)](./Practical-05-Cryptarithmetic-CSP)
 
-### 🔹 Practical 02 – Water Jug Problem
-- State Space Representation
-- Production Rules
-- BFS Implementation
-- Goal State Achievement
+---
 
-### 🔹 Practical 03 – Tic-Tac-Toe Game with AI
-- Human vs Computer gameplay
-- Basic AI logic
-- Win/Draw detection
-- Game tree concept
+## 📊 Practicals Overview
 
-### 🔹 Practical 04 – A* Algorithm vs BFS
-- Heuristic Search
-- OPEN & CLOSE list concept
-- Shortest Path Calculation
-- Performance comparison with BFS
-
-### 🔹 Practical 05 – Cryptarithmetic Puzzle
-- Constraint Satisfaction Problem (CSP)
-- Backtracking Algorithm
-- SEND + MORE = MONEY implementation
+| Practical No | Title | Key Concepts |
+|-------------|--------|--------------|
+| 01 | Magic Square | Matrix logic, mathematical formulation |
+| 02 | Water Jug Problem | Production Rules, BFS, State Space |
+| 03 | Tic Tac Toe AI | Game logic, decision making |
+| 04 | A* vs BFS | Heuristic Search, Path Finding |
+| 05 | Cryptarithmetic CSP | Constraint Satisfaction, Backtracking |
 
 ---
 
 ## 🛠 Technologies Used
 
-- Python
-- VS Code / Google Colab
-- Basic AI Search Techniques
-- Constraint Satisfaction Methods
+- Python  
+- VS Code / Google Colab  
+- Breadth First Search (BFS)  
+- A* Search Algorithm  
+- Constraint Satisfaction Problem (CSP)  
+- Backtracking Algorithm  
+- Production Systems  
 
 ---
 
-## 🧠 Concepts Covered
+## 🧠 Learning Outcomes
 
-- State Space Search
-- Breadth First Search (BFS)
-- A* Search Algorithm
-- Heuristic Functions
-- Production Rules
-- Constraint Satisfaction Problems
-- Backtracking
-- Game AI Fundamentals
+Through these practicals, I was able to:
+
+- Understand and implement AI search techniques  
+- Compare uninformed and informed search algorithms  
+- Apply heuristic functions effectively  
+- Implement constraint satisfaction problems  
+- Develop basic AI-based game systems  
+- Analyze algorithm efficiency and performance  
 
 ---
 
-## 🎯 Learning Outcomes
+## 🎯 Academic Objective
 
-After completing these practicals, I was able to:
-
-- Understand and implement AI search techniques
-- Analyze problem-solving strategies
-- Compare uninformed and informed search algorithms
-- Apply constraint satisfaction techniques
-- Develop simple AI-based game logic
+The objective of this laboratory work was to strengthen practical understanding of Artificial Intelligence concepts through real implementation and problem solving.
 
 ---
 
 ## 📌 Conclusion
 
-This repository reflects the practical implementation of fundamental Artificial Intelligence concepts. The experiments enhanced my understanding of search algorithms, heuristics, constraint satisfaction problems, and AI-based problem solving.
+The AI Lab Practicals enhanced my understanding of fundamental Artificial Intelligence techniques including search strategies, heuristic algorithms, constraint satisfaction problems, and intelligent decision-making systems.  
+
+This repository reflects structured documentation, clean organization, and practical implementation of core AI concepts.
 
 ---
 
