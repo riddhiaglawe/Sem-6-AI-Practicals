@@ -2,84 +2,91 @@
 ### Course Code: N-PCCCS601P  
 **Department of Computer Science & Engineering**  
 S.B. Jain Institute of Technology, Management & Research, Nagpur  
-Academic Session: 2025-2026  
+Academic Session: 2025–2026  
 
 ---
 
-## 📘 About This Repository
+## 📘 Repository Overview
 
-This repository contains the complete set of Artificial Intelligence Lab Practicals performed during Semester VI.  
+This repository contains the Artificial Intelligence laboratory experiments completed during Semester VI.
 
-Each practical includes:
-- 📄 Detailed PDF documentation  
-- 🧠 Theory and Concept explanation  
+The practicals included here demonstrate the implementation of important AI techniques through programming and problem solving.
+
+Each practical generally contains:
+- 📄 Complete practical documentation in PDF format  
+- 🧠 Explanation of theoretical concepts  
 - 💻 Python implementation  
-- 📊 Algorithms and Pseudocode  
-- ✅ Conclusion and discussion questions  
+- 📊 Algorithms or pseudocode  
+- ✅ Observations and conclusions  
 
-This repository demonstrates practical implementation of core AI concepts including search algorithms, constraint satisfaction, production systems, heuristic techniques, and basic game intelligence.
+These experiments help in understanding key Artificial Intelligence topics such as search techniques, heuristic algorithms, constraint satisfaction problems, and rule-based problem solving.
 
 ---
 
-## 📂 AI Lab Practicals
+## 📂 List of AI Lab Practicals
 
 - 🔹 [Practical 01 – Magic Square](./Practical-01-Magic-Square)
 - 🔹 [Practical 02 – Water Jug Problem](./Practical-02-Water-Jug-Problem)
 - 🔹 [Practical 03 – Tic Tac Toe with AI](./Practical-03-Tic-Tac-Toe-AI)
 - 🔹 [Practical 04 – A* Algorithm vs BFS](./Practical-04-AStar-vs-BFS)
-- 🔹 [Practical 05 – Cryptarithmetic Puzzle (CSP)](./Practical-05-Cryptarithmetic-CSP)
+- 🔹 [Practical 05 – Cryptarithmetic Puzzle](./Practical-05-Cryptarithmetic-CSP)
+- 🔹 [Practical 06 – Alpha Beta Pruning](./Practical-06-Alpha-Beta-Pruning)
 
 ---
 
-## 📊 Practicals Overview
+## 📊 Practicals Summary
 
-| Practical No | Title | Key Concepts |
-|-------------|--------|--------------|
-| 01 | Magic Square | Matrix logic, mathematical formulation |
-| 02 | Water Jug Problem | Production Rules, BFS, State Space |
+| Practical No | Experiment | Main Concepts |
+|--------------|------------|---------------|
+| 01 | Magic Square | Matrix operations, mathematical logic |
+| 02 | Water Jug Problem | State space representation, BFS |
 | 03 | Tic Tac Toe AI | Game logic, decision making |
-| 04 | A* vs BFS | Heuristic Search, Path Finding |
-| 05 | Cryptarithmetic CSP | Constraint Satisfaction, Backtracking |
+| 04 | A* Search vs BFS | Heuristic search, shortest path |
+| 05 | Cryptarithmetic Puzzle | Constraint satisfaction, backtracking |
+| 06 | Alpha Beta Pruning | Game tree search, Minimax optimization |
 
 ---
 
-## 🛠 Technologies Used
+## 🛠 Tools and Technologies
 
-- Python  
+The following tools and technologies were used:
+
+- Python Programming  
 - VS Code / Google Colab  
 - Breadth First Search (BFS)  
 - A* Search Algorithm  
 - Constraint Satisfaction Problem (CSP)  
 - Backtracking Algorithm  
-- Production Systems  
+- Alpha-Beta Pruning  
+- Rule Based Systems  
 
 ---
 
 ## 🧠 Learning Outcomes
 
-Through these practicals, I was able to:
+After completing these experiments, the following concepts were understood:
 
-- Understand and implement AI search techniques  
-- Compare uninformed and informed search algorithms  
-- Apply heuristic functions effectively  
-- Implement constraint satisfaction problems  
-- Develop basic AI-based game systems  
-- Analyze algorithm efficiency and performance  
+- Implementation of AI search algorithms  
+- Difference between uninformed and informed search  
+- Use of heuristic functions for efficient search  
+- Solving constraint satisfaction problems  
+- Implementing game playing algorithms  
+- Improving decision making using Alpha-Beta pruning  
 
 ---
 
-## 🎯 Academic Objective
+## 🎯 Objective of the Lab
 
-The objective of this laboratory work was to strengthen practical understanding of Artificial Intelligence concepts through real implementation and problem solving.
+The main goal of these practicals is to provide hands-on experience with Artificial Intelligence techniques and to strengthen logical thinking and algorithmic problem solving.
 
 ---
 
 ## 📌 Conclusion
 
-The AI Lab Practicals enhanced my understanding of fundamental Artificial Intelligence techniques including search strategies, heuristic algorithms, constraint satisfaction problems, and intelligent decision-making systems.  
+These Artificial Intelligence lab experiments provide practical exposure to important AI algorithms and techniques. They help in understanding how intelligent systems solve complex problems using search strategies, heuristics, constraints, and optimization techniques.
 
-This repository reflects structured documentation, clean organization, and practical implementation of core AI concepts.
+This repository acts as a structured record of the AI laboratory work completed during the course.
 
 ---
 
-⭐ Developed as part of Artificial Intelligence Laboratory coursework.
+⭐ Created as part of the Artificial Intelligence Laboratory coursework.
