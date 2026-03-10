@@ -10,16 +10,16 @@ Academic Session: 2025–2026
 
 This repository contains the Artificial Intelligence laboratory experiments completed during Semester VI.
 
-The practicals included here demonstrate the implementation of important AI techniques through programming and problem solving.
+The practicals included here demonstrate the implementation of important AI techniques through programming and logical problem solving.
 
 Each practical generally contains:
 - 📄 Complete practical documentation in PDF format  
 - 🧠 Explanation of theoretical concepts  
-- 💻 Python implementation  
+- 💻 Program implementation  
 - 📊 Algorithms or pseudocode  
 - ✅ Observations and conclusions  
 
-These experiments help in understanding key Artificial Intelligence topics such as search techniques, heuristic algorithms, constraint satisfaction problems, and rule-based problem solving.
+These experiments help in understanding key Artificial Intelligence topics such as search techniques, heuristic algorithms, constraint satisfaction problems, rule-based reasoning, and logic programming.
 
 ---
 
@@ -31,6 +31,7 @@ These experiments help in understanding key Artificial Intelligence topics such 
 - 🔹 [Practical 04 – A* Algorithm vs BFS](./Practical-04-AStar-vs-BFS)
 - 🔹 [Practical 05 – Cryptarithmetic Puzzle](./Practical-05-Cryptarithmetic-CSP)
 - 🔹 [Practical 06 – Alpha Beta Pruning](./Practical-06-Alpha-Beta-Pruning)
+- 🔹 [Practical 07 – Prolog Family Relationship](./Practical-07-Prolog)
 
 ---
 
@@ -44,6 +45,7 @@ These experiments help in understanding key Artificial Intelligence topics such 
 | 04 | A* Search vs BFS | Heuristic search, shortest path |
 | 05 | Cryptarithmetic Puzzle | Constraint satisfaction, backtracking |
 | 06 | Alpha Beta Pruning | Game tree search, Minimax optimization |
+| 07 | Prolog Family Relationship | Logic programming, facts and rules |
 
 ---
 
@@ -53,12 +55,14 @@ The following tools and technologies were used:
 
 - Python Programming  
 - VS Code / Google Colab  
+- SWI-Prolog  
 - Breadth First Search (BFS)  
 - A* Search Algorithm  
 - Constraint Satisfaction Problem (CSP)  
 - Backtracking Algorithm  
 - Alpha-Beta Pruning  
 - Rule Based Systems  
+- Logic Programming (Prolog)
 
 ---
 
@@ -72,6 +76,7 @@ After completing these experiments, the following concepts were understood:
 - Solving constraint satisfaction problems  
 - Implementing game playing algorithms  
 - Improving decision making using Alpha-Beta pruning  
+- Representing knowledge using logic programming in Prolog  
 
 ---
 
@@ -83,7 +88,7 @@ The main goal of these practicals is to provide hands-on experience with Artific
 
 ## 📌 Conclusion
 
-These Artificial Intelligence lab experiments provide practical exposure to important AI algorithms and techniques. They help in understanding how intelligent systems solve complex problems using search strategies, heuristics, constraints, and optimization techniques.
+These Artificial Intelligence lab experiments provide practical exposure to important AI algorithms and techniques. They help in understanding how intelligent systems solve complex problems using search strategies, heuristics, constraints, optimization techniques, and logical reasoning.
 
 This repository acts as a structured record of the AI laboratory work completed during the course.
 
