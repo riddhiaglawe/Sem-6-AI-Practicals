@@ -8,18 +8,15 @@ Academic Session: 2025–2026
 
 ## 📘 Repository Overview
 
-This repository contains the Artificial Intelligence laboratory experiments completed during Semester VI.
+This repository contains Artificial Intelligence lab experiments performed during Semester VI.
 
-The practicals included here demonstrate the implementation of important AI techniques through programming and logical problem solving.
+Each practical includes:
+- PDF documentation  
+- Theory explanation  
+- Algorithms / logic  
+- Implementation and output  
 
-Each practical generally contains:
-- 📄 Complete practical documentation in PDF format  
-- 🧠 Explanation of theoretical concepts  
-- 💻 Program implementation  
-- 📊 Algorithms or pseudocode  
-- ✅ Observations and conclusions  
-
-These experiments help in understanding key Artificial Intelligence topics such as search techniques, heuristic algorithms, constraint satisfaction problems, rule-based reasoning, and logic programming.
+These experiments cover important AI concepts such as search techniques, knowledge representation, logic programming, and probability.
 
 ---
 
@@ -32,66 +29,43 @@ These experiments help in understanding key Artificial Intelligence topics such 
 - 🔹 [Practical 05 – Cryptarithmetic Puzzle](./Practical-05-Cryptarithmetic-CSP)
 - 🔹 [Practical 06 – Alpha Beta Pruning](./Practical-06-Alpha-Beta-Pruning)
 - 🔹 [Practical 07 – Prolog Family Relationship](./Practical-07-Prolog)
+- 🔹 [Practical 08 – Semantic Networks](./Practical-08-Semantic-Networks)
+- 🔹 [Practical 09 – Bayes Rule](./Practical-09-Bayes-Rules)
 
 ---
 
 ## 📊 Practicals Summary
 
-| Practical No | Experiment | Main Concepts |
-|--------------|------------|---------------|
-| 01 | Magic Square | Matrix operations, mathematical logic |
-| 02 | Water Jug Problem | State space representation, BFS |
-| 03 | Tic Tac Toe AI | Game logic, decision making |
-| 04 | A* Search vs BFS | Heuristic search, shortest path |
-| 05 | Cryptarithmetic Puzzle | Constraint satisfaction, backtracking |
-| 06 | Alpha Beta Pruning | Game tree search, Minimax optimization |
-| 07 | Prolog Family Relationship | Logic programming, facts and rules |
+| Practical | Topic | Concepts |
+|-----------|------|----------|
+| 01 | Magic Square | Mathematical logic |
+| 02 | Water Jug Problem | BFS, State Space |
+| 03 | Tic Tac Toe AI | Game logic |
+| 04 | A* vs BFS | Heuristic search |
+| 05 | Cryptarithmetic | CSP, Backtracking |
+| 06 | Alpha Beta Pruning | Minimax optimization |
+| 07 | Prolog | Logic programming |
+| 08 | Semantic Networks | Knowledge representation |
+| 09 | Bayes Rule | Probability & reasoning |
 
 ---
 
-## 🛠 Tools and Technologies
+## 🛠 Technologies Used
 
-The following tools and technologies were used:
-
-- Python Programming  
+- Python  
 - VS Code / Google Colab  
 - SWI-Prolog  
-- Breadth First Search (BFS)  
-- A* Search Algorithm  
-- Constraint Satisfaction Problem (CSP)  
-- Backtracking Algorithm  
-- Alpha-Beta Pruning  
-- Rule Based Systems  
-- Logic Programming (Prolog)
-
----
-
-## 🧠 Learning Outcomes
-
-After completing these experiments, the following concepts were understood:
-
-- Implementation of AI search algorithms  
-- Difference between uninformed and informed search  
-- Use of heuristic functions for efficient search  
-- Solving constraint satisfaction problems  
-- Implementing game playing algorithms  
-- Improving decision making using Alpha-Beta pruning  
-- Representing knowledge using logic programming in Prolog  
-
----
-
-## 🎯 Objective of the Lab
-
-The main goal of these practicals is to provide hands-on experience with Artificial Intelligence techniques and to strengthen logical thinking and algorithmic problem solving.
+- Search Algorithms  
+- Constraint Satisfaction  
+- Logic Programming  
+- Probability Models  
 
 ---
 
 ## 📌 Conclusion
 
-These Artificial Intelligence lab experiments provide practical exposure to important AI algorithms and techniques. They help in understanding how intelligent systems solve complex problems using search strategies, heuristics, constraints, optimization techniques, and logical reasoning.
-
-This repository acts as a structured record of the AI laboratory work completed during the course.
+These practicals provide hands-on understanding of Artificial Intelligence techniques such as search algorithms, logical reasoning, knowledge representation, and probabilistic inference.
 
 ---
 
-⭐ Created as part of the Artificial Intelligence Laboratory coursework.
+⭐ Developed as part of AI Laboratory coursework.
